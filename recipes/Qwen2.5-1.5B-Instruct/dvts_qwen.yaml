@@ -1,0 +1,15 @@
+# refer to src/sal/config.py for more options
+
+approach: dvts
+n: 64
+search_batch_size: 1
+seed: 0
+prm_batch_size: 2
+max_tokens: 2048
+max_tokens_per_step: 256
+output_dir: "/mnt/public/usr/yourpath/search-and-learn/result/MATH500/Qwen2.5-Math-PRM-7B/Qwen2.5-1.5B-Instruct/dvts"
+prm_path: "/mnt/public/usr/yourpath/allmodels/Qwen2.5-Math-PRM-7B"
+model_path: "/mnt/public/usr/yourpath/allmodels/Qwen2.5-1.5B-Instruct"
+embedding_path: "/mnt/public/usr/yourpath/allmodels/bge-m3"
+temperature: 0.8
+custom_chat_template: null

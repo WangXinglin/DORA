@@ -1,0 +1,15 @@
+# refer to src/sal/config.py for more options
+
+approach: rebase
+n: 256
+search_batch_size: 1
+seed: 0
+prm_batch_size: 1
+max_tokens: 2048
+max_tokens_per_step: 256
+rebase_temperature: 0.1
+num_samples: 500
+gpu_memory_utilization: 0.40
+output_dir: "/mnt/public/usr/yourpath/search-and-learn/result/MATH500/Qwen2.5-Math-PRM-7B/Llama-3.2-3B-Instruct/rebase"
+model_path: "/mnt/public/usr/yourpath/allmodels/Llama-3.2-3B-Instruct"
+prm_path: "/mnt/public/usr/yourpath/allmodels/Qwen2.5-Math-PRM-7B"

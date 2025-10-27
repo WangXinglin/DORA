@@ -8,7 +8,7 @@ pip install -f requirements.txt
 ## Sampling
 
 ```bash
-bash scripts/run_{method}_qwen.sh
+bash scripts/run_{$method}_qwen.sh
 ```
 
 ## Merge Sampling Result

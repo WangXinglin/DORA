@@ -10,6 +10,7 @@ Test-Time Scaling (TTS) improves the performance of Large Language Models (LLMs)
 ![1](https://github.com/user-attachments/assets/d4fe50cf-fa87-465e-97af-48b2473b3118)
 
 
+![2](https://github.com/user-attachments/assets/9dd0746f-a04a-475e-b47d-b540587f41a9)
 
 ## Experiments
 

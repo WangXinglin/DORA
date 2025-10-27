@@ -25,7 +25,7 @@ bash scripts/eval_result.sh
 
 ## Develop Your Own Sampling Strategy (optional)
 
-Please add your code on ```bash scripts/sal/search```
+Please add your code on ```scripts/sal/search```
 
 ## Acknowledgement
 

@@ -23,6 +23,10 @@ bash scripts/merge_result.sh
 bash scripts/eval_result.sh
 ```
 
+## Develop Your Own Sampling Strategy (optional)
+
+Please add your code on ```bash scripts/sal/search```
+
 ## Acknowledgement
 
 We learned a lot and borrowed some code from the following projects when building GDR.

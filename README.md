@@ -1,5 +1,36 @@
 Code and data for NeurIPS2025 paper "Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling"
 
+## Environemnt
+```bash
+pip install -f requirements.txt
+```
+
+## Sampling
+
+```bash
+bash scripts/run_{method}_qwen.sh
+```
+
+## Merge Sampling Result
+
+```bash
+bash scripts/merge_result.sh
+```
+
+## Get Accuracy Result
+
+```bash
+bash scripts/eval_result.sh
+```
+
+## Acknowledgement
+
+We learned a lot and borrowed some code from the following projects when building GDR.
+
+- [search-and-learn](https://github.com/huggingface/search-and-learn)
+- [inference_scaling](https://github.com/thu-wyz/inference_scaling) 
+
+
 
 ## Abstract
 
@@ -12,6 +43,5 @@ Test-Time Scaling (TTS) improves the performance of Large Language Models (LLMs)
 
 ![2](https://github.com/user-attachments/assets/9dd0746f-a04a-475e-b47d-b540587f41a9)
 
-## Experiments
 
 

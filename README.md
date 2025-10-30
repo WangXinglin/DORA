@@ -29,7 +29,7 @@ Please add your code on ```scripts/sal/search```
 
 ## Acknowledgement
 
-We learned a lot and borrowed some code from the following projects when building GDR.
+We learned a lot and borrowed some code from the following projects when building DORA.
 
 - [search-and-learn](https://github.com/huggingface/search-and-learn)
 - [inference_scaling](https://github.com/thu-wyz/inference_scaling) 
